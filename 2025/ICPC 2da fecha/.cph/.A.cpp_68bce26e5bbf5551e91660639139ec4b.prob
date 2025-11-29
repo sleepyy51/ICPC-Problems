@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/home/sleepyy/ICPC 2da fecha/A.cpp","tests":[{"id":1750528206754,"input":"1 10 2","output":"5"},{"id":1750528215734,"input":"1 10 3","output":"3"},{"id":1750528224799,"input":"13 27 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sleepyy/ICPC 2da fecha/A.cpp","group":"local","local":true}

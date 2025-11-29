@@ -1,0 +1,1 @@
+{"name":"Local: anexo","url":"/home/sleepyy/ICPC 2da fecha/anexo.cpp","tests":[{"id":1750531084899,"input":"1 10 2","output":"5"},{"id":1750531105109,"input":"1 10 3","output":"3"},{"id":1750531132392,"input":"13 27 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sleepyy/ICPC 2da fecha/anexo.cpp","group":"local","local":true}
