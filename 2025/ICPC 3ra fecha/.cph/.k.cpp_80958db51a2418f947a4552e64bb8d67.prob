@@ -1,1 +1,0 @@
-{"name":"Local: k","url":"/home/sleepyy/Programming/C++/Codeforces/ICPC 3ra fecha/k.cpp","tests":[{"id":1755980419579,"input":"6\n3 7 1 5\n0 0 0 0\n-5 -1 2 8\n1 10 3 6\n-1 4 4 10\n-10 -2 -7 0","output":"2\n0\n0\n3\n0\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sleepyy/Programming/C++/Codeforces/ICPC 3ra fecha/k.cpp","group":"local","local":true}
