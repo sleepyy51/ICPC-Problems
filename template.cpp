@@ -15,6 +15,7 @@
     #define fi first
     #define se second
     #define deb(x) cout << #x << ": "<< x << '\n';
+    #define sl '\n';
     using namespace std;
      
     using pi = pair<int,int>;
@@ -78,3 +79,4 @@
     
    //Per aspera ad astra
    //Hic sunt leones
+   //Rise so high in mud you lie
