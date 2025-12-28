@@ -1,6 +1,7 @@
     #include <bits/stdc++.h>
     #define FOR(i,a,b) for (int i = (a); i < (b); i++)
     #define ROF(i,a,b) for (int i = (b)-1; i >= (a); --i)
+    #define FORI(i,a,b) for(int i = a; i <= b; i++)
     #define FORE(i, a) for(auto i : a) //Solo lectura
     #define FORR(i, a) for(auto &i : a) //Modificación
     #define FORC(cont, it) for(typeof((cont).begin()) it = (cont).begin(); it != (cont).end(); it++)
