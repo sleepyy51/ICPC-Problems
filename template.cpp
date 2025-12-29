@@ -10,7 +10,6 @@
     #define sz(v) ((int)(v).size())
     #define all(v) (v).begin(),(v).end()
     #define erase_duplicates(x) x.erase(unique(all(x)),x.end());
-    #define deb(x) cout << #x << ": "<< x << '\n';
     #define sl '\n';
     #define lb lower_bound
     #define ub upper_bound
@@ -39,7 +38,6 @@
     const int INF = 1e9;
     const int INFNEG = -INF;
     const ll MOD = 1000000007LL;
-
     const double EP = 1E-10;
     const int mxN = 1e5;
 
@@ -53,23 +51,27 @@
     template<class T> inline ll sum(T n) { ll k = (ll)(n); return k * (k + 1) / 2; } //Sumatoria de 1 a n;
     template<class T> inline ll lcm(T a, T b) { ll x = (ll)a, y = (ll)b; return x / std::gcd(x, y) * y; } //MCD
     bool myCompare(pair<char,int> p1, pair<char,int> p2){return p1.fi>p2.fi;}
+    #ifdef LOCAL
+    #define deb(x) cout << #x << ": "<< x << '\n';
+    #else
+    #define deb(x)
+    #endif
 
     void solve(){
         
     }
 
     int main(){
-        ios::sync_with_stdio(0);
-        cin.tie(0);
+        ios::sync_with_stdio(0); cin.tie(0);
         #ifdef VJ
         freopen("i.txt","r",stdin);
         freopen("o.txt","w",stdout);
         #endif
 
         int t = 1, i = 0;
-        //cin >> t;    
+        cin >> t;    
         while (t--){
-            //cout<<"Case "<<++i<<": ";
+            //cout<<"Case "<<++i<<": "<<sl;
             solve();
         }
     } 
